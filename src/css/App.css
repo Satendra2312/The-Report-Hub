@@ -1,0 +1,47 @@
+.navbar-brand {
+    color: white;
+    letter-spacing: 0.5px;
+    display: flex;
+    justify-content: end;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #EEE;
+    margin:0;
+}
+
+.news-headline {
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 20px;
+}
+.news_headline:hover{
+    text-decoration: underline;
+    color: black;
+    font-weight: 900;
+    font-size: medium;
+    cursor: pointer;
+    transition:0.5s;
+}
+.News-left-hedline:hover{
+    /* text-decoration: underline; */
+    color: black;
+    font-weight: 900;
+    font-size: medium;
+    cursor: pointer;
+    transition:0.5s;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+img{
+    border-radius: 10px;
+}
